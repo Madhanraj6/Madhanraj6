@@ -105,7 +105,6 @@ GPA: 8.26/10 | 2020–2024
 - **GitHub**: [github.com/Madhanraj6](https://github.com/Madhanraj6)
 - **LinkedIn**: [linkedin.com/in/madhanraj-anandhan](https://www.linkedin.com/in/madhanraj-anandhan/)
 - **Email**: madhanraj6522@gmail.com
-- **Phone**: +91 88706 08335
 
 ---
 
