@@ -35,14 +35,6 @@ I take complex ML problems and ship them—from computer vision pipelines proces
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhanraj6&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Madhanraj6&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
 ## 🎯 What I Do
 
 - **Production ML Systems**: End-to-end pipelines from raw data to deployed models
